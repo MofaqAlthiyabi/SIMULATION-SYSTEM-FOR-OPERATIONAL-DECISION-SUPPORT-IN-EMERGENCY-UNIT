@@ -3,4 +3,4 @@
 Arena Software used in this project 
 
 # Research Poster 
-![](24x36_G2_SIMULATION SYSTEM.pdf)
+![](1.pdf)
