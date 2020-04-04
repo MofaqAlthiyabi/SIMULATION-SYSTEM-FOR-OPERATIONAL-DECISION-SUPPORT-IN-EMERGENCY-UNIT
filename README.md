@@ -1,1 +1,6 @@
 # SIMULATION-SYSTEM-FOR-OPERATIONAL-DECISION-SUPPORT-IN-EMERGENCY-UNIT
+
+Arena Software used in this project 
+
+# Research Poster 
+![](24x36_G2_SIMULATION SYSTEM.pdf)
