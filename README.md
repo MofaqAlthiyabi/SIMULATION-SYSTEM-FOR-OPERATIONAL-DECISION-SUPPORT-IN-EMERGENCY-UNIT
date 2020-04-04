@@ -3,4 +3,4 @@
 Arena Software used in this project 
 
 # Research Poster 
-![](1.pdf)
+![](1.png)
